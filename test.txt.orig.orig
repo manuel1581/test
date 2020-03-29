@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+conflict2
+
+
+another commit from conflict2
+=======
+<<<<<<< HEAD
+conflict1
+=======
+conflict2
+>>>>>>> conflict2
+
+conflict1
+>>>>>>> conflict1
+
